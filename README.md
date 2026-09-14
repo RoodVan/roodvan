@@ -1,7 +1,7 @@
 <!--
   Before publishing, fill in or delete:
     @telegram     Telegram handle in the badge below, or delete that badge
-    you@mail.com  contact e-mail in the badge below, or delete that badge
+    vangoal99@gmail.com  contact e-mail in the badge below, or delete that badge
     20XX          the year the marketplace work started
 -->
 
@@ -14,8 +14,8 @@
 Web applications, APIs and Telegram products since 2006.
 
 [![Perfecto Web](https://img.shields.io/badge/Perfecto%20Web-perfecto--web.com-1f6bff?style=flat&logo=safari&logoColor=white)](https://perfecto-web.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@telegram-1f6bff?style=flat&logo=telegram&logoColor=white)](https://t.me/telegram)
-[![E-mail](https://img.shields.io/badge/E--mail-you@mail.com-111?style=flat&logo=gmail&logoColor=white)](mailto:you@mail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@Ashot_PW-1f6bff?style=flat&logo=telegram&logoColor=white)](https://t.me/Ashot_PW)
+[![E-mail](https://img.shields.io/badge/E--mail-vangoal99@gmail.com-111?style=flat&logo=gmail&logoColor=white)](mailto:vangoal99@gmail.com)
 
 [![Years on GitHub](https://badges.strrl.dev/years/RoodVan?style=flat&labelColor=333333&logoColor=E7E7E7)](https://github.com/RoodVan)
 [![Contributions this year](https://badges.strrl.dev/contributions/yearly/RoodVan?style=flat&labelColor=333333&logoColor=E7E7E7&color=1f6bff)](https://github.com/RoodVan)
